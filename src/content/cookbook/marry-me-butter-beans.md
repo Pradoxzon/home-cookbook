@@ -1,6 +1,5 @@
 ---
 title: 'Marry Me Butter Beans'
-description: 'Marry me butter beans — creamy sun-dried tomato basil sauce, tender beans, ready in 35 minutes.'
 credit: 'Sarah''s Vegan Kitchen'
 sourceLink: 'https://sarahsvegankitchen.com/recipes/marry-me-butter-beans/'
 ---

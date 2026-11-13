@@ -8,12 +8,12 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'cookbook'>['data'];
 
-const { title, description, credit, sourceLink } = Astro.props;
+const { title, credit, sourceLink } = Astro.props;
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={'A recipe for: ' + title} />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -62,6 +62,19 @@ const { title, description, credit, sourceLink } = Astro.props;
 				<div class="prose">
 					<div class="title">
 						<h1>{title}</h1>
+            {credit && (
+              <p class="credit">
+                Credit: {credit}
+                {sourceLink && (
+                  <>
+                    {' '}
+                    (<a href={sourceLink} target="_blank" rel="noopener noreferrer">
+                      source
+                    </a>)
+                  </>
+                )}
+              </p>
+            )}
 						<hr />
 					</div>
 					<slot />

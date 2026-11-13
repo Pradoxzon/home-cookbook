@@ -9,11 +9,8 @@ const cookbook = defineCollection({
 	schema: ({ image }) =>
 		z.object({
 			title: z.string(),
-			description: z.string(),
-			// Transform string to Date object
 			credit: z.string().optional(),
 			sourceLink: z.string().optional(),
-			heroImage: z.optional(image()),
 		}),
 });
 
