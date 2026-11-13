@@ -95,11 +95,7 @@ const posts = (await getCollection('cookbook')).sort(
 					{posts.map((post) => (
 						<li>
 							<SmartLink href={`/cookbook/${post.id}/`}>
-								{post.data.heroImage && (
-									<Image width={720} height={360} src={post.data.heroImage} alt="" />
-								)}
 								<h4 class="title">{post.data.title}</h4>
-								<p class="description">{post.data.description}</p>
 							</SmartLink>
 						</li>
 					))}
