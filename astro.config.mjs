@@ -3,10 +3,12 @@
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
+import { SITE_BASE_URL } from './src/consts.js';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
+	site: 'https://Pradoxzon.github.io',
+	base: SITE_BASE_URL,
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
