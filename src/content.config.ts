@@ -6,7 +6,7 @@ const cookbook = defineCollection({
 	// Load Markdown and MDX files in the `src/content/cookbook/` directory.
 	loader: glob({ base: './src/content/cookbook', pattern: '**/*.{md,mdx}' }),
 	// Type-check frontmatter using a schema
-	schema: ({ image }) =>
+	schema: () =>
 		z.object({
 			title: z.string(),
 			credit: z.string().optional(),
