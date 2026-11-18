@@ -6,17 +6,17 @@ sourceLink: 'https://plantbasedrdblog.com/2024/03/caramelized-onion-chickpea-sal
 
 ## Ingredients
 
-- 1 tablespoon **extra virgin olive oil**
-- 2 medium **yellow onion** _thinly sliced_
-- 3 cloves **garlic** _grated_
+- 1 1/2 tablespoon **extra virgin olive oil**
+- 4 small **sweet onion** _thinly sliced_
+- 3-4 cloves **garlic** _grated_
 - 2 teaspoons **balsamic vinegar**
-- 1 teaspoon **maple syrup** _optional_
-- 1, 15 oz **canned chickpeas** _drained and rinsed_
-- 1/4 cup **plain greek yogurt**
-- 2 tablespoons **mayo** _or good quality tahini_
-- 2 tablespoons **nutritional yeast** _optional_
-- 1 small **lemon** _juice and zest_
-- Handful of **chives** _thinly sliced_
+- 2 teaspoon **maple syrup** _optional_
+- 2, 15 oz **canned chickpeas** _drained and rinsed_
+- 3/8 cup **plain greek yogurt**
+- 3 tablespoons **mayo** _or good quality tahini_
+- 3 tablespoons **nutritional yeast** _optional_
+- 1 1/2 small **lemon** _juice and zest_
+- Handful of **chives** _or green onion, thinly sliced_
 - **Salt** _to taste_
 
 ### Optional Toppings
